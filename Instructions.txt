@@ -1,0 +1,5 @@
+Instructions to execute the code:
+
+-> Install the node dependencies using command "npm install" or "yarn install"
+-> Entry point of the server is "index.js", hence run command "node index.js" to run server
+-> Use MySQL WorkBench, Xampp or any available software to run a MySQL server. 
